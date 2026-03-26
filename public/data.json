@@ -1,0 +1,184 @@
+{
+  "players": [
+    {
+      "name": "Abhishek Sharma",
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Slow left-arm orthodox",
+      "price": 120,
+      "rating": 908,
+      "country": "India",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/382400/382414.png"
+    },
+    {
+      "name": "Rashid Khan",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Leg-break googly",
+      "price": 210,
+      "rating": 753,
+      "country": "Afghanistan",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320400/320448.png"
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm fast",
+      "price": 250,
+      "rating": 879,
+      "country": "India",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316484.png"
+    },
+    {
+      "name": "Phil Salt",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm off-break",
+      "price": 110,
+      "rating": 849,
+      "country": "England",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316500/316523.png"
+    },
+    {
+      "name": "Tilak Varma",
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Right-arm off-break",
+      "price": 95,
+      "rating": 805,
+      "country": "India",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/338200/338230.png"
+    },
+    {
+      "name": "Pat Cummins",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm fast",
+      "price": 215,
+      "rating": 832,
+      "country": "Australia",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316500/316584.png"
+    },
+    {
+      "name": "Sahibzada Farhan",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "None",
+      "price": 45,
+      "rating": 848,
+      "country": "Pakistan",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/322600/322615.png"
+    },
+    {
+      "name": "Virat Kohli",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm medium",
+      "price": 280,
+      "rating": 791,
+      "country": "India",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316600/316605.png"
+    },
+    {
+      "name": "Travis Head",
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Right-arm off-break",
+      "price": 140,
+      "rating": 713,
+      "country": "Australia",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/322700/322718.png"
+    },
+    {
+      "name": "Suryakumar Yadav",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm medium",
+      "price": 180,
+      "rating": 722,
+      "country": "India",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316600/316625.png"
+    },
+    {
+      "name": "Pathum Nissanka",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "None",
+      "price": 60,
+      "rating": 766,
+      "country": "Sri Lanka",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/321500/321516.png"
+    },
+    {
+      "name": "Jos Buttler",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "None",
+      "price": 150,
+      "rating": 770,
+      "country": "England",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316500/316518.png"
+    },
+    {
+      "name": "Mitchell Marsh",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm medium",
+      "price": 110,
+      "rating": 689,
+      "country": "Australia",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/322600/322699.png"
+    },
+    {
+      "name": "Daryl Mitchell",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm medium-fast",
+      "price": 90,
+      "rating": 840,
+      "country": "New Zealand",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/322100/322197.png"
+    },
+    {
+      "name": "Aiden Markram",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm off-break",
+      "price": 100,
+      "rating": 573,
+      "country": "South Africa",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/321500/321598.png"
+    },
+    {
+      "name": "Hardik Pandya",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm fast-medium",
+      "price": 170,
+      "rating": 509,
+      "country": "India",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316400/316488.png"
+    },
+    {
+      "name": "Babar Azam",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm off-break",
+      "price": 120,
+      "rating": 684,
+      "country": "Pakistan",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319900/319946.png"
+    },
+    {
+      "name": "Rahmanullah Gurbaz",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "None",
+      "price": 75,
+      "rating": 662,
+      "country": "Afghanistan",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320400/320455.png"
+    },
+    {
+      "name": "Shaheen Afridi",
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Left-arm fast",
+      "price": 160,
+      "rating": 650,
+      "country": "Pakistan",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316600/316661.png"
+    },
+    {
+      "name": "Adam Zampa",
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Leg-break googly",
+      "price": 85,
+      "rating": 682,
+      "country": "Australia",
+      "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316500/316591.png"
+    }
+  ]
+}
